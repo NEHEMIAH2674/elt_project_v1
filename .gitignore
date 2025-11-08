@@ -1,0 +1,10 @@
+# Python files
+__pycache__/
+*.pyc
+.env
+venv/
+
+# dbt files
+core_insights/dbt_packages/
+core_insights/target/
+core_insights/dbt_modules/
